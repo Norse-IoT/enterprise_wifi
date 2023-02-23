@@ -1,4 +1,4 @@
-This sketch connects to an enterprise wifi access point and then attempts to negotiate an SSL connection with a website. 
+This sketch connects to an enterprise wifi access point (such as those used at NKU) and then attempts to negotiate an SSL connection with a website. 
 
 On successful wifi connection, this script will attempt to connect to iot.informatics.plus on port 443.
 
